@@ -16,7 +16,7 @@ Alan Turing broke enigma code !
 
 We go to our best friend dcode.fr by example, and submit the message to the enigma machine.
 We got this (with added spaces): 
-`CONVERT TO UNIX TIMESTAMP THE DATE OF BIRTH AT MIDNIGHT PAST ONE MINUTE AND THE DATE OF DEATH AT MIDNIGHT PAST TWO MINUTES OF THE SUBJECT. ADD THE TWO DATES AND FIND THE FLAG
+`CONVERT TO UNIX TIMESTAMP THE DATE OF BIRTH AT MIDNIGHT PAST ONE MINUTE AND THE DATE OF DEATH AT MIDNIGHT PAST TWO MINUTES OF THE SUBJECT. ADD THE TWO DATES AND FIND THE FLAG`
 
 - date of birth of alan turing is 23/06/1912
   At midnight past one minutes , the timestamp was : -1815350340
