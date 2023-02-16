@@ -1,7 +1,7 @@
 # Community Contract - Financial Problems
 
 To open the flagfile, we need to find the full name of the person who gave the hair clip to the girl on this photo : 
-!(assets/1.png)
+![first cap)(assets/1.png)
 
 1. A quick Google Image shows that it comes from an anime called Onimai : 
 ![[assets/2.png]]
