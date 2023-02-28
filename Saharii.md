@@ -9,7 +9,8 @@ The zip file is passwordless and contains 6 images.
 The JPG files does not contains any steg or hidden informations.
 
 In each PNG image we have a code on the left corner : 
-![[Pasted image 20230227212158.png]]
+
+![challimage](assets/Pasted%20image%2020230227212158.png)
 
 If we look on google, it seems to be coordinates.
 We can convert them on What3words
@@ -23,4 +24,4 @@ We "bruteforce" the passphrase with these combinations :
 conveying-keyholes
 conveying-half >>> THIS ONE'S GOOD !
 
-![[Pasted image 20230228164635.png]]
+![challimage](assets/Pasted%20image%2020230228164635.png)
