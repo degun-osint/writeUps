@@ -1,3 +1,6 @@
+# TARTAN INTELLIGENCE
+**How to identify a tartan with its color**
+
 Tartans are highly codified, and registered on [the Scottish Register of Tartans](https://www.tartanregister.gov.uk)
 
 The main difficulties is to get the horizontal color order to search the database.
